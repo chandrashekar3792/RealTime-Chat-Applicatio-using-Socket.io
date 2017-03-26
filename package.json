@@ -1,0 +1,22 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chandrashekar3792/RealTime-Chat-Applicatio-using-Socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrashekar3792/RealTime-Chat-Applicatio-using-Socket.io/issues"
+  },
+  "homepage": "https://github.com/chandrashekar3792/RealTime-Chat-Applicatio-using-Socket.io",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
